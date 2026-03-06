@@ -2,12 +2,12 @@
 
 > Monitor live streams and get notified when specific keywords are mentioned!
 
-## 🔥 Pain Points
+## ⭐ What This Does
 
-- ❌ Miss important live streams when you're away
-- ❌ Can't get real-time alerts for specific content
-- ❌ Language barriers when watching foreign streams
-- ❌ Can't track competitor promotions or keywords
+- Monitor live streams 24/7
+- Get INSTANT alerts when keywords you care about are mentioned
+- Real-time speech transcription
+- Multi-language support
 
 ## 💡 Solution
 
