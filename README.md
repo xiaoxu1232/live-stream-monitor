@@ -2,12 +2,12 @@
 
 > Monitor live streams and get notified when specific keywords are mentioned!
 
-## ⭐ What This Does
+## What This Does
 
 - Monitor live streams 24/7
-- Get INSTANT alerts when keywords you care about are mentioned
+- Get instant alerts when keywords you care about are mentioned
 - Real-time speech transcription
-- Multi-language support
+- Multi-language support (English, Chinese, Japanese, etc.)
 
 ## 💡 Solution
 
